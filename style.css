@@ -57,3 +57,28 @@ h6{
     font-size: x-large;
     background-color: darkgoldenrod;
 }
+
+.populer-lm{
+    color: rgb(0, 0, 82);
+    display: flex;
+    stroke: cadetblue;
+    stroke-width: 1px;
+    font-size: large;
+}
+
+.medinova-lm{
+    color: rgb(0, 0, 82);
+    display: flex;
+    font-size: large;
+}
+
+.modern-lm{
+color:rgb(0, 0, 82) ;
+font-size: large;
+}
+
+.islam-lm{
+    color: rgb(0, 0, 82);
+    display: flex;
+    font-size: large;
+}
