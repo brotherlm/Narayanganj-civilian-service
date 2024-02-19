@@ -70,6 +70,8 @@ h6{
     color: rgb(0, 0, 82);
     display: flex;
     font-size: large;
+    
+    
 }
 
 .modern-lm{
@@ -81,4 +83,66 @@ font-size: large;
     color: rgb(0, 0, 82);
     display: flex;
     font-size: large;
+}
+
+.isha-blood{
+    font-size: large;
+    background-color: rgb(100, 0, 0);
+    color: aliceblue;
+    font-style: italic;
+}
+
+.jogajog-num-isha{
+    font-size: large;
+    display: flex;
+    
+}
+
+.button-work{
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+
+.emergency-amb{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.medinova-call{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.populer-call{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.Narayanganj-Amb{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.modern-num{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.islam-num{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ambulance{
+    background-color: bisque;
+    color: #e00000;
+    
 }
