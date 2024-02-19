@@ -1,0 +1,59 @@
+h1{
+    color: brown;
+    stroke: black;
+    font-size: 25px;
+    font-style: oblique;
+    background-color: linen;
+}
+
+h2{
+    background-color: antiquewhite;
+    font-style: italic;
+}
+
+h3{
+    background-color: rgb(255, 172, 71);
+    color: navy;
+    font-size: xx-large;
+    stroke: black;
+    border: 4px black;
+}
+
+img{
+    flex: content;
+    size: 100px;
+    height: 250px;
+    width: 250px;
+    display: flex;
+    border: 5px solid #ff0000;
+}
+
+body{
+    background-color: wheat;
+}
+
+head{
+    background-image: url(online-payment.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    font-weight: 300px;
+    border: 1px solid blue;
+    word-spacing: 3px;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+h5{
+    background-color: chocolate;
+    font-weight: 
+}
+
+
+h6{
+    font-size: x-large;
+    background-color: darkgoldenrod;
+}
