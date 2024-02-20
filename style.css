@@ -102,6 +102,7 @@ font-size: large;
 align-items: center;
 justify-content: center;
 display: flex;
+flex-direction: column;
 
 }
 
@@ -145,4 +146,34 @@ display: flex;
     background-color: bisque;
     color: #e00000;
     
+}
+
+.jahid-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.w-full{
+    background-color: #610000;
+    color: aliceblue;
+    font-size: large;
+}
+
+.dewvog-jogajog{
+    font-size: large;
+}
+
+.dewvog-num{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+
+.phone-dewvog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
 }
